@@ -1,3 +1,5 @@
 def add(a,b):
     return a+b
-add(10,20)
+obj=add(10,20)
+print(obj)
+
